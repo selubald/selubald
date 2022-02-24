@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @selubald
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
